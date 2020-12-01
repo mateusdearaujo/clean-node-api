@@ -54,7 +54,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../tdd-mango" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../clean-node-api" />
   </component>
   <component name="ProjectId" id="1kbuJNv7DRidhuPA2oS0clji5sP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -83,7 +83,7 @@
       <workItem from="1605987531402" duration="5784000" />
       <workItem from="1606094984992" duration="5758000" />
       <workItem from="1606181959867" duration="728000" />
-      <workItem from="1606789146851" duration="1238000" />
+      <workItem from="1606789146851" duration="2388000" />
     </task>
     <servers />
   </component>
