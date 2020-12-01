@@ -56,6 +56,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../clean-node-api" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1kbuJNv7DRidhuPA2oS0clji5sP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -65,9 +71,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -83,7 +96,7 @@
       <workItem from="1605987531402" duration="5784000" />
       <workItem from="1606094984992" duration="5758000" />
       <workItem from="1606181959867" duration="728000" />
-      <workItem from="1606789146851" duration="2388000" />
+      <workItem from="1606789146851" duration="4738000" />
     </task>
     <servers />
   </component>
@@ -103,10 +116,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1985" y="175" width="1574" height="736" key="SettingsEditor" timestamp="1606790015897">
+    <state x="2581" y="266" width="587" height="553" key="#ESLint" timestamp="1606793189400">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="1985" y="175" width="1574" height="736" key="SettingsEditor/0.25.1920.998/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606790015897" />
+    <state x="2581" y="266" width="587" height="553" key="#ESLint/0.25.1920.998/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606793189400" />
+    <state x="2565" y="190" width="620" height="705" key="#TypeScript" timestamp="1606793918730">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2565" y="190" width="620" height="705" key="#TypeScript/0.25.1920.998/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606793918730" />
+    <state x="2259" y="179" width="1574" height="736" key="SettingsEditor" timestamp="1606793909168">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2259" y="179" width="1574" height="736" key="SettingsEditor/0.25.1920.998/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606793909168" />
     <state x="2863" y="266" width="686" height="548" key="find.popup" timestamp="1605982737242">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
