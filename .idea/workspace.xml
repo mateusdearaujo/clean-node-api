@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90dfdbca-fb24-4acc-b586-e5f3afea3a2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/src/components/Painel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/webpack.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="EditorConfigPreviewManager">
+    <editorConfig file="$PROJECT_DIR$/alurapic/.editorconfig" previewFile="$PROJECT_DIR$/alurapic/src/App.vue" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../tdd-mango" />
+  </component>
+  <component name="ProjectId" id="1kbuJNv7DRidhuPA2oS0clji5sP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90dfdbca-fb24-4acc-b586-e5f3afea3a2e" name="Default Changelist" comment="" />
+      <created>1605981539943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605981539943</updated>
+      <workItem from="1605981540972" duration="4359000" />
+      <workItem from="1605987531402" duration="5784000" />
+      <workItem from="1606094984992" duration="5758000" />
+      <workItem from="1606181959867" duration="728000" />
+      <workItem from="1606789146851" duration="1238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1985" y="175" width="1574" height="736" key="SettingsEditor" timestamp="1606790015897">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1985" y="175" width="1574" height="736" key="SettingsEditor/0.25.1920.998/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606790015897" />
+    <state x="2863" y="266" width="686" height="548" key="find.popup" timestamp="1605982737242">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2863" y="266" width="686" height="548" key="find.popup/0.25.1920.998/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605982737242" />
+  </component>
+</project>
