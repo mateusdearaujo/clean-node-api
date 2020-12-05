@@ -20,19 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90dfdbca-fb24-4acc-b586-e5f3afea3a2e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/components/Painel.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../clean-node-api" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -70,6 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -79,20 +68,21 @@
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/../clean-node-api/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$/../clean-node-api" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/../clean-node-api/src/controller.spec.ts" />
+      <test-file value="$PROJECT_DIR$/src/controller.spec.ts" />
       <test-names>
         <test-name value="" />
       </test-names>
@@ -116,7 +106,9 @@
       <workItem from="1605987531402" duration="5784000" />
       <workItem from="1606094984992" duration="5758000" />
       <workItem from="1606181959867" duration="728000" />
-      <workItem from="1606789146851" duration="5928000" />
+      <workItem from="1606789146851" duration="6570000" />
+      <workItem from="1607122286812" duration="1608000" />
+      <workItem from="1607133748547" duration="738000" />
     </task>
     <servers />
   </component>
@@ -134,23 +126,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2581" y="266" width="587" height="553" key="#ESLint" timestamp="1606793189400">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2581" y="266" width="587" height="553" key="#ESLint/0.25.1920.998/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606793189400" />
-    <state x="2565" y="190" width="620" height="705" key="#TypeScript" timestamp="1606793918730">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2565" y="190" width="620" height="705" key="#TypeScript/0.25.1920.998/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606793918730" />
-    <state x="2259" y="179" width="1574" height="736" key="SettingsEditor" timestamp="1606793909168">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2259" y="179" width="1574" height="736" key="SettingsEditor/0.25.1920.998/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606793909168" />
-    <state x="2863" y="266" width="686" height="548" key="find.popup" timestamp="1605982737242">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2863" y="266" width="686" height="548" key="find.popup/0.25.1920.998/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605982737242" />
   </component>
 </project>
